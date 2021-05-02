@@ -25,7 +25,6 @@ function Cart() {
 
     const qiwiResponse = await checkOut(fields);
     if (qiwiResponse.payUrl) {
-
       setRedirectUrl(qiwiResponse.payUrl);
       setQiwiPay(!isQiwiPay);
     }

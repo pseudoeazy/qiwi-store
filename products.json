@@ -1,0 +1,152 @@
+[
+  {
+    "id":"grape001",
+    "emoji": "🍇",
+    "name": "Grape",
+    "calories": 170,
+    "price": 7,
+    "category": "fruits",
+    "additional": [
+      {
+        "content": "A grape bunch, as cut from the vine and used to make wine"
+      }
+    ]
+  },
+  {
+    "id": "icecream002",
+    "emoji": "🍦",
+    "name": "ice cream",
+    "calories": 120,
+    "price": 5,
+    "category": "drinks",
+    "additional": [
+      {
+        "content":
+          "A swirl of soft-serve ice cream atop a wafer-style cone, white or cream-colored, as vanilla, on most platforms"
+      }
+    ]
+  },
+  {
+    "id": "tangerine003",
+    "emoji": "🍊",
+    "name": "Tangerine",
+    "calories": 160,
+    "price": 6,
+    "category": "fruits",
+    "additional": [
+      {
+        "content":
+          "An orange-colored citrus fruit with a green leaf or leaves and stem"
+      }
+    ]
+  },
+  {
+    "id": "tomato004",
+    "emoji": "🍔",
+    "name": "Hamburger",
+    "calories": 200,
+    "price": 10,
+    "category": "food",
+    "additional": [
+      {
+        "content":
+          "A burger with a beef patty, usually depicted on a sesame bun with cheese, lettuce, and tomato"
+      }
+    ]
+  },
+  {
+    "id": "donuts005",
+    "emoji": "🍩",
+    "name": "donuts",
+    "calories": 120,
+    "price": 7,
+    "category": "food",
+    "additional": [
+      {
+        "content":
+          "A chocolate-glazed donut (or doughnut) with rainbow sprinkles"
+      }
+    ]
+  },
+  {
+    "id": "rootbeer006",
+    "emoji": "🍺",
+    "name": "Root Beer",
+    "calories": 214,
+    "price": 20,
+    "category": "drinks",
+    "additional": [
+      { "content": "A beer, as a golden-colored lager, in a frosty mug" }
+    ]
+  },
+  {
+    "id": "pizza007",
+    "emoji": "🍕",
+    "name": "Pizza",
+    "calories": 120,
+    "price": 12,
+    "category": "food",
+    "additional": [
+      { "content": "A slice of pepperoni pizza, topped with black olives" }
+    ]
+  },
+  {
+    "id": "watermelon008",
+    "emoji": "🍉",
+    "name": "watermelon",
+    "calories": 120,
+    "price": 8,
+    "category": "fruits",
+    "additional": [
+      {
+        "content":
+          "A slice of watermelon, showing its rich pink flesh, black seeds, and green rind"
+      }
+    ]
+  },
+  {
+    "id": "water009",
+    "emoji": "🥤",
+    "name": "Water",
+    "calories": 0,
+    "price": 3,
+    "category": "drink",
+    "additional": [{ "content": "A drinking cup with a straw" }]
+  },
+  {
+    "id": "tropicaldrink010",
+    "emoji": "🍹",
+    "name": "Tropical Drink",
+    "calories": 180,
+    "price": 25,
+    "category": "drink",
+    "additional": [
+      {
+        "content": "A sunset-orange-colored tropical beverage in a stemmed glass"
+      }
+    ]
+  },
+  {
+    "id": "barbecue011",
+    "emoji": "🍖",
+    "name": "Barbecue",
+    "calories": 120,
+    "price": 15,
+    "category": "food",
+    "additional": [{ "content": "A hunk of unspecified meat on a white bone" }]
+  },
+  {
+    "id": "strawberry012",
+    "emoji": "🍓",
+    "name": "Strawberry",
+    "calories": 180,
+    "price": 12,
+    "category": "fruits",
+    "additional": [
+      {
+        "content":
+          "The fruit of a rich red strawberry dotted with seeds and crowned with green leaves"
+      }
+    ]
+  }
+]

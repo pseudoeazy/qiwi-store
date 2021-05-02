@@ -1,0 +1,44 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+}
+.title {
+  cursor: pointer;
+}
+.menus {
+  display: flex;
+}
+.menus ul {
+  list-style-type: none;
+  display: flex;
+  margin-right: 1em;
+}
+.menus a {
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+.menus a:hover {
+  background-color: yellowgreen;
+}
+.description {
+  line-height: 1.5;
+  font-size: 1.5rem;
+  margin: 0;
+  margin-left: 0.2rem;
+}
+
+.description a {
+  display: flex;
+  align-items: center;
+}
+
+.description svg {
+  margin-right: 0.4em;
+}
+
+.activeLink {
+  border-bottom: 2px solid blue;
+  font-weight: bold;
+  cursor: pointer;
+}

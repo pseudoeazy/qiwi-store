@@ -1,0 +1,33 @@
+.product {
+  max-width: 60rem;
+  min-height: 100vh;
+  margin: 1em auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid black;
+}
+.image,
+.info {
+  padding: 10px;
+}
+.image {
+  flex: 1;
+  font-size: 6em;
+  border: 1px solid #999;
+  border-right: none;
+}
+
+table.info {
+  border-collapse: collapse;
+  flex: 2;
+}
+.info td {
+  border: 1px solid #999;
+  padding: 0.5rem;
+  text-align: left;
+  letter-spacing: 2px;
+}
+.info td:last-child {
+  line-height: 18px;
+}
